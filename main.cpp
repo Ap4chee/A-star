@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <cmath>
 
-using namespace std;         // a* z chata
+using namespace std;         
 
 const int INF = 1e9;
 
